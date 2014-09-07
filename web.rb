@@ -6,7 +6,8 @@ require 'hpricot'
 require 'cgi'
 
 configure :development do
-  require "sinatra/reloader"
+  # Commenting out because it causes an error with 'foreman'
+  # require "sinatra/reloader"
 end
 
 # Default is xhtml, do not want!
