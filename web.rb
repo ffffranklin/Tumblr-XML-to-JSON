@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'rubygems'
 require 'sinatra'
 require 'curb'
 require 'json'
