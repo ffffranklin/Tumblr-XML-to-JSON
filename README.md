@@ -1,5 +1,5 @@
 # spottr-rails 
-
+#### No Longer Supported
 (previously Tumblr-XML-to-JSON)
 
 This was a helper tool for [Max Wheeler's](http://makenosound.com/) idea to use 
