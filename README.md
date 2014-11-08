@@ -1,5 +1,5 @@
-# pre-spottr-rails 
-
+# spottr-rails 
+#### No Longer Supported
 (previously Tumblr-XML-to-JSON)
 
 This was a helper tool for [Max Wheeler's](http://makenosound.com/) idea to use 
@@ -15,8 +15,8 @@ I mearly updated it to run on heroku for all to use.  Eventually I will be makin
 Asumming you have [Ruby](https://www.ruby-lang.org), [Bundler](http://bundler.io) and [Heroku Toolbelt](https://toolbelt.heroku.com) installed on your machine:
 
 ```sh
-git clone git@github.com:ffffranklin/pre-spottr-rails.git # or clone your own fork
-cd pre-spottr-rails
+git clone git@github.com:ffffranklin/spottr-rails.git # or clone your own fork
+cd spottr-rails
 bundle
 foreman start
 ```
